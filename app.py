@@ -66,6 +66,21 @@ st.markdown(
     h1 { font-size: clamp(2.2rem, 4vw, 3.45rem) !important; font-weight: 800 !important; }
     h2 { font-weight: 750 !important; }
     p, li { color: #40504a; }
+    
+    /* Correction du texte invisible dans les messages d'alerte et st.info */
+    [data-testid="stAlert"] {
+      background-color: #172b25 !important;
+      border: 1px solid #28624d !important;
+      border-radius: 10px !important;
+    }
+    [data-testid="stAlert"] p,
+    [data-testid="stAlert"] span,
+    [data-testid="stAlert"] li,
+    [data-testid="stAlert"] div {
+      color: #e6f4ee !important;
+      font-weight: 500 !important;
+    }
+
     .eyebrow {
       text-transform: uppercase; letter-spacing: .17em; font-size: .68rem;
       font-weight: 700; color: var(--green); margin-bottom: .55rem;
@@ -117,8 +132,8 @@ st.markdown(
       border-left:3px solid #bd8b43; background:#fbf7ef; padding:.85rem 1rem;
       border-radius:0 10px 10px 0; color:#665538; font-size:.88rem; line-height:1.55;
     }
-    /* Buttons: explicit foreground and background colours prevent theme-dependent
-       low contrast (especially when Streamlit is using a dark browser theme). */
+
+    /* Style des boutons */
     .stButton > button,
     .stDownloadButton > button {
       color:#17352b !important;
@@ -160,20 +175,7 @@ st.markdown(
       background:#125640 !important;
       border-color:#125640 !important;
     }
-    .stButton > button:focus-visible,
-    .stDownloadButton > button:focus-visible {
-      outline:3px solid #bd8b43 !important;
-      outline-offset:2px !important;
-      box-shadow:0 0 0 2px #ffffff !important;
-    }
-    .stButton > button:disabled,
-    .stDownloadButton > button:disabled {
-      color:#66736f !important;
-      background:#e8ece8 !important;
-      border-color:#d2dad4 !important;
-      opacity:1 !important;
-      cursor:not-allowed !important;
-    }
+    
     [data-testid="stTabs"] button {
       color:#40504a !important;
       font-weight:700 !important;
@@ -182,9 +184,6 @@ st.markdown(
       color:#145b43 !important;
     }
     div[data-testid="stDataFrame"] { border:1px solid var(--line); border-radius:12px; overflow:hidden; }
-    div[data-testid="stTabs"] button { font-weight:700; }
-    [data-testid="stAlert"] p,
-    [data-testid="stAlert"] li { color:#263a32 !important; }
     [data-testid="stCaptionContainer"] p { color:#66736f !important; }
     .stMarkdown, .stMarkdown p, .stMarkdown li { color:#40504a; }
     hr { border-color:#e4e9e4; }
@@ -195,10 +194,6 @@ st.markdown(
 )
 
 
-# ---------------------------------------------------------------------------
-# Load the supplied corpus and fit the three supplied models once per session.
-# The algorithms remain in src/pipeline.py; this file only builds the UI.
-# ---------------------------------------------------------------------------
 @st.cache_resource(show_spinner="Estimating model probabilities from the training corpus…")
 def load_models():
     docs = load_tagged(str(ROOT / "data" / "corpus.csv"))
