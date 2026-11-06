@@ -1,0 +1,101 @@
+sentence,tags,valid_tag_pattern,copied_from_training
+the lazy birds clean the apples .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the teachers eat the birds near the river .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the children eat the bread at the park .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the old farmers run the mice behind the kitchen .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the farmers eat the river by the school .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the small birds run the garden behind the garden .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the foxes chase the garden in the garden .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the birds sell the birds by the kitchen .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the lazy farmers buy the cats .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the happy foxes clean the soup .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the boys eat the small cakes at the market .,DET_S NOUN_S VERB DET_O ADJ_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the teachers visit at the happy market .,DET_S NOUN_S VERB PREP DET_P ADJ_P NOUN_P PUNCT,yes,no
+the boys eat the horses by the garden .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the children buy near the park .,DET_S NOUN_S VERB PREP DET_P NOUN_P PUNCT,yes,no
+the foxes eat behind the garden .,DET_S NOUN_S VERB PREP DET_P NOUN_P PUNCT,yes,no
+the mice eat the rice .,DET_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the boys leave the key in the park .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the girls leave the apples at the school .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the mice watch the cakes .,DET_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the horses watch the small cats .,DET_S NOUN_S VERB DET_O ADJ_O NOUN_O PUNCT,yes,no
+the dogs eat the bread at the kitchen .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the happy teachers eat at the river .,DET_S ADJ_S NOUN_S VERB PREP DET_P NOUN_P PUNCT,yes,no
+the teachers follow the mice .,DET_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the hungry doctors eat the birds .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the foxes fear the bread by the river .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the cats clean the cakes .,DET_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the quiet boys eat the soup by the kitchen .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the girls follow near the school .,DET_S NOUN_S VERB PREP DET_P NOUN_P PUNCT,yes,no
+the old boys clean the market at the old market .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PREP DET_P ADJ_P NOUN_P PUNCT,yes,no
+the birds eat the rice .,DET_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the cats fear the key at the old garden .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P ADJ_P NOUN_P PUNCT,yes,no
+the children buy the garden near the park .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the horses chase the small birds near the garden .,DET_S NOUN_S VERB DET_O ADJ_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the mice lose the watch in the market .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the teachers eat the old dogs by the kitchen .,DET_S NOUN_S VERB DET_O ADJ_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the small doctors watch the cakes at the garden .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the cats run the horses .,DET_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the girls chase the dogs in the old kitchen .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P ADJ_P NOUN_P PUNCT,yes,no
+the quiet boys visit the river .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the birds chase the cats near the river .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the old foxes sell the bread .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the lazy girls watch the key in the market .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the children buy the quiet soup .,DET_S NOUN_S VERB DET_O ADJ_O NOUN_O PUNCT,yes,no
+the young foxes eat the mice by the school .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the children watch the horses by the kitchen .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the girls clean the soup by the garden .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the brave mice follow the lazy cakes .,DET_S ADJ_S NOUN_S VERB DET_O ADJ_O NOUN_O PUNCT,yes,no
+the small doctors watch by the kitchen .,DET_S ADJ_S NOUN_S VERB PREP DET_P NOUN_P PUNCT,yes,no
+the cats run the bread in the river .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the mice fear the dogs in the river .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the mice eat the mice .,DET_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the old mice fear in the garden .,DET_S ADJ_S NOUN_S VERB PREP DET_P NOUN_P PUNCT,yes,no
+the boys watch the cakes .,DET_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the boys fear the old kitchen .,DET_S NOUN_S VERB DET_O ADJ_O NOUN_O PUNCT,yes,no
+the teachers play the horses in the garden .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the foxes visit the school in the market .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the young mice cook the lazy park .,DET_S ADJ_S NOUN_S VERB DET_O ADJ_O NOUN_O PUNCT,yes,no
+the small doctors sleep at the market .,DET_S ADJ_S NOUN_S VERB PREP DET_P NOUN_P PUNCT,yes,no
+the farmers watch behind the school .,DET_S NOUN_S VERB PREP DET_P NOUN_P PUNCT,yes,no
+the boys fear in the school .,DET_S NOUN_S VERB PREP DET_P NOUN_P PUNCT,yes,no
+the hungry dogs watch the birds .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the foxes play the brave park .,DET_S NOUN_S VERB DET_O ADJ_O NOUN_O PUNCT,yes,no
+the birds visit the birds behind the river .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the girls find the lazy birds .,DET_S NOUN_S VERB DET_O ADJ_O NOUN_O PUNCT,yes,no
+the lazy doctors run the school .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the foxes buy the rice in the river .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the happy teachers buy the happy birds .,DET_S ADJ_S NOUN_S VERB DET_O ADJ_O NOUN_O PUNCT,yes,no
+the girls watch the cats by the river .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the teachers visit the kitchen .,DET_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,yes
+the boys play the mice behind the lazy market .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P ADJ_P NOUN_P PUNCT,yes,no
+the foxes find the hungry mice .,DET_S NOUN_S VERB DET_O ADJ_O NOUN_O PUNCT,yes,no
+the happy doctors bring the happy cheese in the school .,DET_S ADJ_S NOUN_S VERB DET_O ADJ_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the farmers run the birds .,DET_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the doctors eat the cats at the garden .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the foxes chase the foxes in the market .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the children bring by the old garden .,DET_S NOUN_S VERB PREP DET_P ADJ_P NOUN_P PUNCT,yes,no
+the horses play the dogs at the garden .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the children eat the key in the garden .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the hungry teachers run by the school .,DET_S ADJ_S NOUN_S VERB PREP DET_P NOUN_P PUNCT,yes,no
+the farmers play the cheese .,DET_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the quiet mice watch the lazy mice .,DET_S ADJ_S NOUN_S VERB DET_O ADJ_O NOUN_O PUNCT,yes,no
+the quiet dogs follow the small dogs near the school .,DET_S ADJ_S NOUN_S VERB DET_O ADJ_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the old mice leave at the school .,DET_S ADJ_S NOUN_S VERB PREP DET_P NOUN_P PUNCT,yes,no
+the old children watch the apples near the park .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the quiet farmers buy the cats at the small market .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PREP DET_P ADJ_P NOUN_P PUNCT,yes,no
+the foxes buy the ball by the school .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the foxes sleep in the brave park .,DET_S NOUN_S VERB PREP DET_P ADJ_P NOUN_P PUNCT,yes,no
+the horses fear the apples .,DET_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the doctors sleep near the garden .,DET_S NOUN_S VERB PREP DET_P NOUN_P PUNCT,yes,no
+the girls buy the rice by the garden .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the teachers watch the kitchen behind the river .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the teachers eat the old garden by the kitchen .,DET_S NOUN_S VERB DET_O ADJ_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the dogs buy the dogs near the garden .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the young foxes sleep the birds .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the foxes buy the watch .,DET_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the horses play the soup by the garden .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the happy foxes leave the cats .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PUNCT,yes,no
+the brave foxes leave the mice by the market .,DET_S ADJ_S NOUN_S VERB DET_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
+the foxes eat the mice near the happy market .,DET_S NOUN_S VERB DET_O NOUN_O PREP DET_P ADJ_P NOUN_P PUNCT,yes,no
+the doctors leave the small foxes by the kitchen .,DET_S NOUN_S VERB DET_O ADJ_O NOUN_O PREP DET_P NOUN_P PUNCT,yes,no
