@@ -1,6 +1,6 @@
 # Lab 03: Chaotic Text Generator
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_CLOUD_URL_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chaotic-text-generator-app.streamlit.app/)
 
 An interactive NLP workbench for probabilistic generative sequence models (POS-HMM, Role-Split HMM, and Trigram Baseline) and Viterbi sequence tagging.
 
@@ -9,7 +9,7 @@ An interactive NLP workbench for probabilistic generative sequence models (POS-H
 ## 🌐 Live Application & Deployment
 
 The application is deployed on Streamlit Community Cloud and can be accessed online:
-- **Live Demo:** [Click here to launch the application](YOUR_STREAMLIT_CLOUD_URL_HERE)
+- **Live Demo:** [Click here to launch the application](https://chaotic-text-generator-app.streamlit.app/)
 
 ---
 
@@ -66,8 +66,8 @@ pip install -r requirements.txt
 ### 2. Run Benchmarks
 Generate official result files in `results/`:
 ```bash
-python -m src.evaluate       # Evaluates synthetic corpus, outputs metrics.json
-python -m src.evaluate_real  # Evaluates UD EWT dataset, outputs ewt_results.json
+python -m src.evaluate        # Evaluates synthetic corpus, outputs metrics.json
+python -m src.evaluate_real   # Evaluates UD EWT dataset, outputs ewt_results.json
 ```
 
 ### 3. Launch Local Streamlit App
