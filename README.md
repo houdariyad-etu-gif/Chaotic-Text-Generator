@@ -16,27 +16,27 @@ The application is deployed on Streamlit Community Cloud and can be accessed onl
 ## 📸 Application Screenshots
 
 ### 1. Interactive Workbench & Batch Generation
-![Generation Lab](generationLab_1.jpg)
+![Generation Lab](./screenshots/generationLab_1.jpg)
 *Batch sentence generation displaying real-time structural metrics, novelty scores, and exact training match alerts.*
 
 ### 2. Sentence Details & Batch Analysis
-![Generation Batch Details](generationLab_2.jpg)
+![Generation Batch Details](./screenshots/generationLab_2.jpg)
 *Detailed inspection of generated tokens alongside sampled hidden states and memorisation checks.*
 
 ### 3. Viterbi POS Tagger & OOV Handling
-![Viterbi POS Tagger](viterbi.jpg)
+![Viterbi POS Tagger](./screenshots/viterbi.jpg)
 *Dynamic programming sequence tagging with out-of-vocabulary (OOV) word highlighting.*
 
 ### 4. Model Insights & Temperature Curves
-![Model Insights Curves](model_insights1.jpg)
+![Model Insights Curves](./screenshots/model_insights1.jpg)
 *Comparative benchmarking and temperature sensitivity analysis ($T \in [0.5, 2.5]$).*
 
 ### 5. Transition Probabilities & Failure Analysis
-![Model Insights Matrix](model_insights2.jpg)
+![Model Insights Matrix](./screenshots/model_insights2.jpg)
 *Row-normalised HMM transition matrix and structured failure cases.*
 
 ### 6. Real-Data Generalisation (UD English EWT)
-![Real Data Evaluation](realdata_evaluation.jpg)
+![Real Data Evaluation](./screenshots/realdata_evaluation.jpg)
 *Evaluation of HMM + Viterbi vs. Most-Frequent Tag baseline on Universal Dependencies English EWT.*
 
 ---
